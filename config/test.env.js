@@ -8,3 +8,4 @@ module.exports = merge(devEnv, {
   PAY_URL:'"https://trpay.7glb.com"',
   WXMP_APPID:'"wxe8dcf4e63b937ac4"'
 })
+
