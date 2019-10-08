@@ -1,5 +1,6 @@
 # trpay
 VUE搭建收银台，支持微信公众号支付，微信扫码支付
+# dependencies
 "dependencies": {
     "axios": "^0.19.0",
     "less": "^3.9.0",
