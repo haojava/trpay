@@ -7,7 +7,7 @@ Vue.use(Router)
 
 export default new Router({
   mode: 'history',
-  base: '/',
+  base: '/cash/',//测试环境“cash”生产环境“/”
   routes: [
     {//公众号支付 https://trpay.7glb.com/#/mp/pay?payNo=2019071017245922420
       path: '/mp/pay',
